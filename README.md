@@ -144,6 +144,3 @@ The website is designed to work across different screen sizes:
   </a>
 </p>
 
-<p align="center">
-  ✨ Thank you for visiting my portfolio! ✨
-</p>
