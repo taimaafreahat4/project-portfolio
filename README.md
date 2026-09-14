@@ -56,35 +56,35 @@ The website was designed with a clean, modern, and responsive interface.
 
 ## 📌 Website Sections
 
-### 🏠 Home
+###  Home
 Introduction and personal information.
 
-### 👩‍💻 About Me
+###  About Me
 Academic background, interests and personal information.
 
-### 💼 Experience
+### Experience
 My experience in problem solving and using Python for data-driven tasks.
 
-### 🎓 Qualification
+###  Qualification
 My academic qualification and educational background.
 
-### 🧠 Skills
+###  Skills
 Technical and soft skills.
 
-### 🚀 Projects
+###  Projects
 Projects related to data analysis, artificial intelligence and web development.
 
-### 🤝 References
+###  References
 Professional references and contact information.
 
-### 📬 Contact
+###  Contact
 Ways to get in touch with me.
 
 ---
 
-## 🧠 Skills
+##  Skills
 
-### 💻 Technical Skills
+###  Technical Skills
 
 - Python
 - Data Analysis
@@ -95,7 +95,7 @@ Ways to get in touch with me.
 - CSS
 - Bootstrap
 
-### 🌱 Soft Skills
+###  Soft Skills
 
 - Problem Solving
 - Logical Thinking
@@ -104,7 +104,7 @@ Ways to get in touch with me.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 The portfolio showcases projects related to:
 
@@ -116,7 +116,7 @@ The portfolio showcases projects related to:
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The website is designed to work across different screen sizes:
 
