@@ -14,6 +14,20 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
+
+---
+
+## 🌐 Live Portfolio
+
+<p align="center">
+  <a href="https://taimaafreahat4.github.io/project-portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-Visit%20Website-38bdf8?style=for-the-badge" alt="View Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  🚀 Explore my portfolio, skills, experience, qualifications, and projects.
+</p>
 ---
 
 ## 🌟 About The Project
