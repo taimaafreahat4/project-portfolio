@@ -19,15 +19,10 @@
 
 ## 🌐 Live Portfolio
 
-<p align="center">
-  <a href="https://taimaafreahat4.github.io/project-portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-Visit%20Website-38bdf8?style=for-the-badge" alt="View Portfolio">
-  </a>
-</p>
+🔗 **[View My Portfolio](https://taimaafreahat4.github.io/project-portfolio/)**
 
-<p align="center">
-  🚀 Explore my portfolio, skills, experience, qualifications, and projects.
-</p>
+> Explore my portfolio, skills, experience, qualifications, and projects.
+
 ---
 
 ## 🌟 About The Project
