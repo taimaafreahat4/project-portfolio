@@ -20,12 +20,12 @@
 
 This project is a personal portfolio website designed to showcase my:
 
-- 🎓 Academic background
-- 💼 Experience
-- 🧠 Technical and soft skills
-- 🚀 Projects
-- 📚 Qualifications
-- 🤝 Professional references
+-  Academic background
+-  Experience
+-  Technical and soft skills
+-  Projects
+-  Qualifications
+-  Professional references
 
 The website was designed with a clean, modern, and responsive interface.
 
@@ -43,14 +43,14 @@ The website was designed with a clean, modern, and responsive interface.
 
 ## ✨ Features
 
-- 📱 Responsive design
-- 🧭 Responsive navigation bar
-- 📂 Mobile offcanvas menu
-- 🎯 Section-based navigation
-- 📄 CV viewing
-- 🖼️ Project showcase
-- 🤝 References section
-- 💻 Desktop, tablet and mobile support
+-  Responsive design
+-  Responsive navigation bar
+-  Mobile offcanvas menu
+-  Section-based navigation
+-  CV viewing
+-  Project showcase
+-  References section
+-  Desktop, tablet and mobile support
 
 ---
 
@@ -128,6 +128,7 @@ The website is designed to work across different screen sizes:
 📱 Mobile
 
 
+---
 
 ## 📫 Connect With Me
 
