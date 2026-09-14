@@ -35,9 +35,9 @@ The website was designed with a clean, modern, and responsive interface.
 
 | Technology | Purpose |
 |---|---|
-| 🧱 HTML5 | Website structure |
-| 🎨 CSS3 | Styling and visual design |
-| 📱 Bootstrap 5 | Responsive layout and navigation |
+| HTML5 | Website structure |
+| CSS3 | Styling and visual design |
+| Bootstrap 5 | Responsive layout and navigation |
 
 ---
 
@@ -126,9 +126,7 @@ The website is designed to work across different screen sizes:
 💻 Laptop / Tablet
       ↓
 📱 Mobile
-
-
----
+```
 
 ## 📫 Connect With Me
 
