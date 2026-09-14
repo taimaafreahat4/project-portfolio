@@ -61,11 +61,7 @@ Introduction and personal information.
 
 ###  About Me
 Academic background, interests and personal information.
-## 👩‍💻 About Me
 
-Academic background, interests and personal information.
-
-![About Me](about.jpg)
 ### Experience
 My experience in problem solving and using Python for data-driven tasks.
 
